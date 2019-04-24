@@ -18,6 +18,10 @@ class ViewController: UIViewController {
         print("Isso deveria existir?")
         
         print("ALGO deveria existir??")
+        
+        print("n sei o q esta havendo")
+        
+        print("EEEU, SÓ QUERO AMAR VOCÊEEEEE")
     }
 
 
