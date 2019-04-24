@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("COISAS ADICIONAIS")
+        
+        print("Isso deveria existir?")
+        
+        print("ALGO deveria existir??")
     }
 
 
