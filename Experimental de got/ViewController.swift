@@ -22,6 +22,8 @@ class ViewController: UIViewController {
         print("n sei o q esta havendo")
         
         print("EEEU, SÓ QUERO AMAR VOCÊEEEEE")
+        
+        print("eoq")
     }
 
 
