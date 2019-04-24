@@ -20,7 +20,9 @@ class ViewController: UIViewController {
         print("ALGO deveria existir??")
         
         print("Isso está sendo feito na master")
+        print("n sei o q esta havendo")
         
+        print("EEEU, SÓ QUERO AMAR VOCÊEEEEE")
         print("master dos magos hahaha")
     }
 
