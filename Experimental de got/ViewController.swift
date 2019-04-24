@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         
         print("EEEU, SÓ QUERO AMAR VOCÊEEEEE")
         print("master dos magos hahaha")
+        
+        print("FINAL QUE é pra ver se funciona")
     }
 
 
